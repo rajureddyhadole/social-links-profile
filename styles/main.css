@@ -53,7 +53,7 @@ main .info h1 {
   font-weight: 600;
   font-size: 1.5rem;
 }
-main .info h3 {
+main .info p {
   font-weight: 600;
   font-size: 1rem;
   color: hsl(75, 94%, 57%);
